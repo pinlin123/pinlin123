@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- I'm currently a master student in NYCU, my research is focusing on issue in EDA backend.
+- My current project is about applying generative AI to routing in advanced packaging, thermal issue and power ground bump is also considered in this project.
+- I'm very new to github, I will try to update my project, github also act as a means for me to record my progress in this field!
+
 <!--
 **pinlin123/pinlin123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
